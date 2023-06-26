@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Kaushik+Katariya's+Github+Profile..." alt="Kaushik Katariya's Profile Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=0000FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Kaushik+Katariya's+Github+Profile..." alt="Kaushik Katariya's Profile Banner" />
 </p>
 
 
