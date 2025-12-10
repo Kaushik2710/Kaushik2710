@@ -45,11 +45,11 @@
 ---
 <br />
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Kaushik2710" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaushik2710&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik2710&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Kaushik Katariya's most used languages"/>
-</p>
+</p> -->
 <br />
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Kaushik2710&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Kaushik Katariya's streaks" />
