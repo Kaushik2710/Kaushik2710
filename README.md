@@ -52,7 +52,7 @@
 </p>
 <br />
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Kaushik2710&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Savan Gadhiya's streaks" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Kaushik2710&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Kaushik Katariya's streaks" />
 </p>
 </a>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Kaushik2710&theme=react-dark&hide_border=false" /> -->
